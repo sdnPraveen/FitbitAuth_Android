@@ -1,4 +1,4 @@
-Fitbit Authentication for android developement.
+#Fitbit Authentication for android developement.
 
 The above code lets you to authenticate user from mobile side and provide access to back end on user data resite on fitbit server. For Example: You can have users health data(step count, calories, distance, heart rate, etc), general information like Height, Weigh, gender etc.
 
